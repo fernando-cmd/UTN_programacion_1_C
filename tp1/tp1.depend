@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1599835145 source:c:\users\ferna\desktop\repositorios clonados\tp_laboratorio_1\tp1\utn.c
+	"utn.h"
+
+1599835145 c:\users\ferna\desktop\repositorios clonados\tp_laboratorio_1\tp1\utn.h
+	<stdio.h>
+
+1599845969 source:c:\users\ferna\desktop\repositorios clonados\tp_laboratorio_1\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+
